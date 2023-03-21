@@ -1,8 +1,8 @@
 
 
-Superuser and admin ------login: sholpan; password: sholpan
+Superuser and admin: sholpan; password: sholpan
 
 
-Project Manage-----login: Bob, password: bob
-Team Leader--------login: Kira, password: Kira
-Developer--------- login: Sara, password: sara
+Project Manager: Bob, password: bob
+Team Leader: Kira, password: Kira
+Developer: Sara, password: sara
